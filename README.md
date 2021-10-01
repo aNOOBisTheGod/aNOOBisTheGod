@@ -1,16 +1,25 @@
-### Hi there 👋
+### Ayo I'm aNOOBis 🦄
 
-<!--
-**aNOOBisTheGod/aNOOBisTheGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+- Python 🤠
+and
++ Flutter (⌐■_■)
+developer
+@@ Unicorns one love)0))🦄🦄@@
+```
 
-Here are some ideas to get you started:
+**Here is some examples of my projects:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```diff
++ Flutter:
+```
+![image](https://user-images.githubusercontent.com/69043738/135632122-e6246f01-dc51-42d3-be98-e69c673a7cc0.png) ![image](https://user-images.githubusercontent.com/69043738/135632291-e2f1135d-ee6c-4927-bac6-619b19accbc3.png) ![image](https://user-images.githubusercontent.com/69043738/135632341-93e3a283-dcc2-4f04-9a3d-753fb14304fc.png)![image](https://user-images.githubusercontent.com/69043738/135632365-70699985-0535-4093-9595-fb8ef028c260.png)
+![image](https://user-images.githubusercontent.com/69043738/135632410-ac2992fb-0076-41eb-a8ba-a8df46b7108d.png)
+
+
+```diff
+- Python:
+```
+No pics in here, just view my profile)
+

@@ -1,7 +1,7 @@
 ### Ayo I'm aNOOBis 🦄
 
 <center>
-<a href="https://github.com/3UR">
+<a href="https://github.com/aNOOBisTheGod">
   <img src="https://github-readme-stats.vercel.app/api?username=aNOOBisTheGod&show_icons=true&include_all_commits=true&show_icons=true&title_color=eebbae&icon_color=eebbae&text_color=16bb9a&bg_color=330e3b" alt="aNOOBis's stats" />
 </a>
 <div height=100>

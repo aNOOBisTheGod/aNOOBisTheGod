@@ -22,4 +22,3 @@
 ▶ Professional idk at what
 ▶ Beginner in cp
 ```
-![Profile views](https://gpvc.arturio.dev/aNOOBisTheGod)

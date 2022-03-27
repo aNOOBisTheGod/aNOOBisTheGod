@@ -16,9 +16,10 @@
 
 
 ```diff
-▶ Python and Flutter developer
-▶ Unicorns one love)0))🦄🦄
-▶ Beginer at web programming
-▶ Professional idk at what
-▶ Beginner in cp
+🧑‍💻 Python and Flutter developer
+🦄 Unicorns one love)0)
+🕸️ Beginner at web programming
+😎 Professional idk in what
+👌 Beginner in cp
+🏆 Awardee of NTO 2021 automation of business processes profile(top 23 in Russia)
 ```

@@ -6,7 +6,7 @@
 😎 Professional idk in what<br>
 👌 Beginner in cp<br>
 🏆 Awardee of [NTO](https://ntcontest.ru/) 2021-2022 automation of business processes profile(top 23 in Russia)<br>
-⌨️ 90 WPM typing speed 60s pb
+⌨️ 103 WPM typing speed 60s pb
 
 <center>
 <a href="https://github.com/aNOOBisTheGod">

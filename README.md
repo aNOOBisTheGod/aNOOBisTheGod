@@ -7,7 +7,7 @@
 #### 🕸️ Beginner at web programming<br>
 #### 😎 Professional idk in what<br>
 #### 🏆 Awardee of [NTO](https://ntcontest.ru/) 2021-2022 automation of business processes profile(top 23 in Russia)<br>
-#### ⌨️ 123 WPM typing speed 60s pb on monkeytype
+#### ⌨️ 128 WPM typing speed 60s pb on monkeytype
 #### 👌 Beginner in cp<br><br>
 <img src="https://www.codewars.com/users/aNOOBisTheGod/badges/large/" />
 

@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/69043738/236646507-34d3a6bb-4fda-44f6-854e-3a64793d886c.png)
+
+
 ## Ayo I'm aNOOBis 🦄
 #### 💻 Python and Flutter developer
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aNOOBisTheGod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

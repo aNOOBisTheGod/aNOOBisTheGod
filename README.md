@@ -12,5 +12,5 @@
 #### 🏆 Awardee of [NTO](https://ntcontest.ru/) 2021-2022 automation of business processes profile(top 23)<br>
 #### ⌨️ 128 WPM typing speed 60s pb on monkeytype
 ## Contact me:
-#### anoobis@anoobis.wtf - email<br>
 #### aNOOBis#9315 - discord
+#### @anoobisthegod - telegram
